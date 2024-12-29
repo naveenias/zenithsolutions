@@ -1,7 +1,6 @@
 import React from 'react'
 import Hero from './Hero';
 import Service from './Service';
-import Testimonial from './Testimonial';
 import HowWeWork from './HowWeWork';
 import Benefits from './Benefits';
 import "style.css"

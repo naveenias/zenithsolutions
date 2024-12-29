@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import WOW from 'wowjs';
-import Footer from './Footer';
 // import { Container, Row, Col, Button } from 'react-bootstrap'; // Use Bootstrap components through react-bootstrap
 // import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'; // Import Font Awesome
 // import { faFacebookF, faTwitter, faLinkedinIn } from '@fortawesome/free-brands-svg-icons'; // Import specific icons

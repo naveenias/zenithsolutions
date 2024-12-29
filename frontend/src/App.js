@@ -12,7 +12,6 @@ import Footer from './components/Footer';
 import ContactUs from './components/ContactUs';
 import Home from './components/Home';
 import AboutUs from './components/AboutUs';
-import TestAnimation from './components/TestAnimation';
 import Servicespage from './components/Servicespage';
 
 function App() {

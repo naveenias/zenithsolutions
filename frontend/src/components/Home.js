@@ -2,8 +2,6 @@ import React, { useEffect, useState } from 'react';
 import WOW from 'wowjs';
 import About from './About';
 import Service from './Service';
-import Team from "./Team"
-import Testimonial from './Testimonial';
 import Benefits from './Benefits';
 import "style.css"
 import 'animate.css';
