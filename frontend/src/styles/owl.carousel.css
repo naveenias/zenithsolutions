@@ -1,0 +1,30 @@
+
+
+  /* .owl-carousel .owl-nav {
+    display: flex !important;
+  } */
+
+  .borderdesign {
+    border: 2px solid var(--primary); /* Thin border with primary color */
+    border-radius: 50%; /* Perfect circle */
+    color: var(--primary); /* Text color */
+    width: 40px; /* Set width for the circle */
+    height: 40px; /* Set height equal to width for a perfect circle */
+    display: flex; /* Center content inside the circle */
+    align-items: center; /* Vertical alignment */
+    justify-content: center; /* Horizontal alignment */
+    text-align: center; /* Center text */ 
+    padding: 0; /* Remove extra padding */
+    font-size: 16px; /* Adjust text size */
+    visibility: visible !important
+  }
+
+  .borderdesign:hover{
+    color: white;
+  }
+  
+  
+ 
+
+
+  
