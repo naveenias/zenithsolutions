@@ -35,11 +35,11 @@ const Footer = () => {
             <p><i className="fa fa-phone-alt me-3 footer_icon"></i>+012 345 67890</p>
             <p><i className="fa fa-envelope me-3 footer_icon"></i>info@example.com</p>
             <div className="d-flex pt-2">
-              <a className="btn btn-outline-light btn-social" href="#"><i className="fab fa-twitter"></i></a>
-              <a className="btn btn-outline-light btn-social" href="#"><i className="fab fa-facebook-f"></i></a>
-              <a className="btn btn-outline-light btn-social" href="#"><i className="fab fa-youtube"></i></a>
-              <a className="btn btn-outline-light btn-social" href="#"><i className="fab fa-instagram"></i></a>
-              <a className="btn btn-outline-light btn-social" href="#"><i className="fab fa-linkedin-in"></i></a>
+              <a className="btn btn-outline-light btn-social" href="/"><i className="fab fa-twitter"></i></a>
+              <a className="btn btn-outline-light btn-social" href="/"><i className="fab fa-facebook-f"></i></a>
+              <a className="btn btn-outline-light btn-social" href="/"><i className="fab fa-youtube"></i></a>
+              <a className="btn btn-outline-light btn-social" href="/"><i className="fab fa-instagram"></i></a>
+              <a className="btn btn-outline-light btn-social" href="/"><i className="fab fa-linkedin-in"></i></a>
             </div>
           </div>
           <div className="col-md-6 col-lg-4">
@@ -77,7 +77,7 @@ const Footer = () => {
           <div className="row">
             <div className="col-md-6 text-center text-md-start mb-3 ```javascript
             mb-md-0">
-              © <a className="border-bottom" href="#">Zenith Solutions</a>, All Right Reserved. Designed By <a className="border-bottom">Naveen M</a>
+              © <a className="border-bottom" href="/">Zenith Solutions</a>, All Right Reserved. Designed By <a className="border-bottom" href="https://www.naveenm.in/">Naveen M</a>
             </div>
             <div className="col-md-6 text-center text-md-end">
               <div className="footer-menu">

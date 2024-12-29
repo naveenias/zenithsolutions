@@ -14,9 +14,9 @@ const TeamMember = ({ name, designation, imgSrc, delay }) => (
       <p className="mb-4">{designation}</p>
       <img className="img-fluid rounded-circle w-100 mb-4" src={imgSrc} alt={name} />
       <div className="d-flex justify-content-center">
-        <a className="btn btn-square text-primary bg-white m-1" href="#"><i className="fab fa-facebook-f"></i></a>
-        <a className="btn btn-square text-primary bg-white m-1" href="#"><i className="fab fa-twitter"></i></a>
-        <a className="btn btn-square text-primary bg-white m-1" href="#"><i className="fab fa-linkedin-in"></i></a>
+        <a className="btn btn-square text-primary bg-white m-1" href="/"><i className="fab fa-facebook-f"></i></a>
+        <a className="btn btn-square text-primary bg-white m-1" href="/"><i className="fab fa-twitter"></i></a>
+        <a className="btn btn-square text-primary bg-white m-1" href="/"><i className="fab fa-linkedin-in"></i></a>
       </div>
     </div>
   </div>

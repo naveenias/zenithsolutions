@@ -109,7 +109,7 @@ const Testimonial = () => {
       </div>
 
       {/* Back to Top Button */}
-      <a href="#" className="btn btn-lg btn-primary btn-lg-circle back-to-top"><i class="bi bi-arrow-up"></i></a>
+      {/* <a href="#" className="btn btn-lg btn-primary btn-lg-circle back-to-top"><i class="bi bi-arrow-up"></i></a> */}
     </div>
   );
 };

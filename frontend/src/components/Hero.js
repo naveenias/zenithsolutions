@@ -32,7 +32,7 @@ const Hero = ({heading, page, link}) => {
         <nav aria-label="breadcrumb">
           <ol className="breadcrumb justify-content-center">
             <li className="breadcrumb-item"><a className="text-white" href="/">Home</a></li>
-            <li className="breadcrumb-item"><a className="text-white" href="#">Pages</a></li>
+            <li className="breadcrumb-item"><a className="text-white" href="/">Pages</a></li>
             <li className="breadcrumb-item"><a className="text-white" href={link}>{page}</a></li>
           </ol>
         </nav>

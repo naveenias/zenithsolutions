@@ -41,7 +41,7 @@ const Home = () => {
                         {/* <a href="/" className="btn btn-outline-light rounded-pill border-2 py-3 px-5 animated animate__slideInRight">Learn More</a> */}
                     </div>
                     <div className="col-lg-6 text-center text-lg-start">
-                        <img className="img-fluid animated animate__zoomIn" src="img/hero.png" alt="Hero Image" />
+                        <img className="img-fluid animated animate__zoomIn" src="img/hero.png" alt="Hero" />
                     </div>
                 </div>
             </div>
