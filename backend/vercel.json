@@ -1,31 +1,12 @@
 {
-    "version": 2,
+    "version":2,
     "builds": [
-      {
-        "src": "backend/**/*",
-        "use": "@vercel/node"
-      }
+        {"src": "*.js", "use": "@vercel/node" }
     ],
     "routes": [
-      {
-        "src": "/api/email/(.*)",
-        "dest": "/api/email/$1"
-      },
-      {
-        "src": "/(.*)",
-        "dest": "/$1"
-      }
-    ],
-    "headers": [
-      {
-        "source": "/api/email/(.*)",
-        "headers": [
-          { "key": "Access-Control-Allow-Origin", "value": "https://www.zenithsolutionz.in" },
-          { "key": "Access-Control-Allow-Methods", "value": "GET, POST, OPTIONS" },
-          { "key": "Access-Control-Allow-Headers", "value": "Content-Type, Authorization" },
-          { "key": "Access-Control-Allow-Credentials", "value": "true" }
-        ]
-      }
+        {
+            "src": "/(.*)",
+            "dest": "/"
+        }
     ]
-  }
-  
+}
