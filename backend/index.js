@@ -4,7 +4,10 @@ require('dotenv').config();
 
 const app = express();
 
-app.use(cors());
+app.use(cors({
+    origin: 'https://www.zenithsolutionz.in/', // Replace with your frontend URL
+    // origin: "http://localhost:3000"
+}));
 app.use(express.json());
 
 const PORT = 5000;

@@ -27,10 +27,10 @@ const services = [
 const Services = () => (
   <div className='container-xxl py-6'>
   <header className="text-center mb-5 ml-5  wow animate__slideInUp" data-wow-delay="0.1s" data-wow-offset="0">
-     <h1 className='mb-5'>Zenith Solutions - Your Partner in Growth</h1>
+     <h1 className='mb-5'>Zenith solutionz - Your Partner in Growth</h1>
         <p>
           Is your tech startup ready to scale but struggling to find the right support talent? 
-          Zenith Solutions specializes in connecting innovative startups like yours with highly skilled remote professionals from India. 
+          Zenith solutionz specializes in connecting innovative startups like yours with highly skilled remote professionals from India. 
           We provide comprehensive solutions that include Customer Support, Technical Support, and Sales Support to ensure your success.
         </p>
   </header>

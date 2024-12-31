@@ -77,7 +77,7 @@ const Footer = () => {
           <div className="row">
             <div className="col-md-6 text-center text-md-start mb-3 ```javascript
             mb-md-0">
-              © <a className="border-bottom" href="/">Zenith Solutions</a>, All Right Reserved. Designed By <a className="border-bottom" href="https://www.naveenm.in/">Naveen M</a>
+              © <a className="border-bottom" href="/">Zenith solutionz</a>, All Right Reserved. Designed By <a className="border-bottom" href="https://www.naveenm.in/">Naveen M</a>
             </div>
             <div className="col-md-6 text-center text-md-end">
               <div className="footer-menu">

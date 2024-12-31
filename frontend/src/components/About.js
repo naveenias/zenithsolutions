@@ -34,9 +34,9 @@ const AboutSection = () => {
           </div>
           <div className={`col-lg-6 ${!isMobile ? 'wow animate__slideInUp' : ''}`} data-wow-delay="0.1s" data-wow-offset="0">
             <div className="d-inline-block border rounded-pill text-primary px-4 mb-3">About Us</div>
-            <h2 className="mb-4">Zenith Solutions</h2>
+            <h2 className="mb-4">Zenith solutionz</h2>
             <p className="mb-4">
-            Zenith Solutions empowers the next generation of tech professionals by connecting exceptional Indian talent with dynamic global startups. We provide remote opportunities in sales, technical support, and talent acquisition, fostering a culture of growth, learning, and work-life balance. We believe in providing hands-on experience and continuous development, enabling individuals to reach their full potential while contributing to cutting-edge projects. At Zenith Solutions, we're not just building careers; we're shaping the future of tech.
+            Zenith solutionz empowers the next generation of tech professionals by connecting exceptional Indian talent with dynamic global startups. We provide remote opportunities in sales, technical support, and talent acquisition, fostering a culture of growth, learning, and work-life balance. We believe in providing hands-on experience and continuous development, enabling individuals to reach their full potential while contributing to cutting-edge projects. At Zenith solutionz, we're not just building careers; we're shaping the future of tech.
             </p>
             <p className="mb-4">
             While we're a new-stage business, our team brings extensive industry experience in customer success and sales operations. We're now channeling that expertise to empower tech startups worldwide, connecting them with top-tier talent and providing tailored solutions to their operational challenges

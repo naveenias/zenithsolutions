@@ -12,7 +12,7 @@ const HowWeWork = () => {
                     </div>
                 </div>
                 <p className="text-center wow animate__slideInUp" data-wow-delay="0.1s" data-wow-offset="0">
-                    At Zenith Solutions, we follow a structured approach to ensure that our clients receive the best support possible. Here’s how we operate:
+                    At Zenith solutionz, we follow a structured approach to ensure that our clients receive the best support possible. Here’s how we operate:
                 </p>
                 <div className="row g-5 align-items-center">
                     <div className="col-lg-6 wow animate__zoomIn" data-wow-delay="0.1s" data-wow-offset="0">

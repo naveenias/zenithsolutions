@@ -33,10 +33,10 @@ const Benefits = () => {
       <div className="row g-5">
         <div className="col-lg-5 wow animate__slideInLeft" data-wow-delay="0.1s">
           <div className="d-inline-block border rounded-pill text-primary px-4 mb-3">Benefits</div>
-          <h2 className="mb-4">Benefits of Choosing Zenith Solutions</h2>
+          <h2 className="mb-4">Benefits of Choosing Zenith solutionz</h2>
           <p>Discover the advantages of partnering with us for your recruitment and support needs.</p>
           <p>
-            Zenith Solutions helps tech startups tackle challenges in customer and technical support. Our teams provide quick resolutions to client inquiries, while our sales support drives revenue by engaging prospects. With us, you can focus on your core business as we handle operational challenges, boosting productivity and customer satisfaction.
+            Zenith solutionz helps tech startups tackle challenges in customer and technical support. Our teams provide quick resolutions to client inquiries, while our sales support drives revenue by engaging prospects. With us, you can focus on your core business as we handle operational challenges, boosting productivity and customer satisfaction.
           </p>
         </div>
         <div className="col-lg-7">
